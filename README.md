@@ -20,3 +20,15 @@ The game will end once the player guesses correctly, or once they run out of tur
 Folder : GuessTheNumberGame
 
 Reference : [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
+
+### jQuery 
+```
+jQuery is a JS Library
+```
+Folder : jQueryPractice
+
+### Javascript30Challenge
+```
+https://javascript30.com/
+```
+Folder : Javascript30
